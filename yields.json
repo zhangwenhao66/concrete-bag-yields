@@ -1,0 +1,15 @@
+{
+  "note": "Approximate yield of mixed concrete per bag, in cubic feet, as printed by the manufacturer. Retrieved 2026-11-20.",
+  "products": [
+    {"brand": "QUIKRETE", "product": "Concrete Mix (No. 1101)", "bag_lb": 40, "yield_ft3": 0.30, "source": "https://www.quikrete.com/pdfs/data_sheet-concrete%20mix%201101.pdf", "source_date": "Revised October 2022"},
+    {"brand": "QUIKRETE", "product": "Concrete Mix (No. 1101)", "bag_lb": 50, "yield_ft3": 0.375, "source": "https://www.quikrete.com/pdfs/data_sheet-concrete%20mix%201101.pdf", "source_date": "Revised October 2022"},
+    {"brand": "QUIKRETE", "product": "Concrete Mix (No. 1101)", "bag_lb": 60, "yield_ft3": 0.45, "source": "https://www.quikrete.com/pdfs/data_sheet-concrete%20mix%201101.pdf", "source_date": "Revised October 2022"},
+    {"brand": "QUIKRETE", "product": "Concrete Mix (No. 1101)", "bag_lb": 80, "yield_ft3": 0.60, "source": "https://www.quikrete.com/pdfs/data_sheet-concrete%20mix%201101.pdf", "source_date": "Revised October 2022"},
+    {"brand": "QUIKRETE", "product": "Concrete Mix (No. 1101), regional", "bag_lb": 90, "yield_ft3": 0.675, "source": "https://www.quikrete.com/pdfs/data_sheet-concrete%20mix%201101.pdf", "source_date": "Revised October 2022"},
+    {"brand": "QUIKRETE", "product": "Fast-Setting Concrete Mix (No. 1004)", "bag_lb": 50, "yield_ft3": 0.375, "source": "https://www.quikrete.com/pdfs/data_sheet-fast%20setting%20concrete%20mix%201004-50.pdf", "source_date": "Revised November 2025"},
+    {"brand": "Sakrete", "product": "High-Strength Concrete Mix", "bag_lb": 40, "yield_ft3": 0.30, "source": "https://www.sakrete.com/wp-content/uploads/2024/01/Sakrete-High-Strength-Concrete-Mix-TDS.pdf", "source_date": "TDS (c) 2023"},
+    {"brand": "Sakrete", "product": "High-Strength Concrete Mix", "bag_lb": 60, "yield_ft3": 0.45, "source": "https://www.sakrete.com/wp-content/uploads/2024/01/Sakrete-High-Strength-Concrete-Mix-TDS.pdf", "source_date": "TDS (c) 2023"},
+    {"brand": "Sakrete", "product": "High-Strength Concrete Mix", "bag_lb": 80, "yield_ft3": 0.60, "source": "https://www.sakrete.com/wp-content/uploads/2024/01/Sakrete-High-Strength-Concrete-Mix-TDS.pdf", "source_date": "TDS (c) 2023"},
+    {"brand": "Sakrete", "product": "High-Strength Concrete Mix", "bag_lb": 90, "yield_ft3": 0.66, "source": "https://www.sakrete.com/wp-content/uploads/2024/01/Sakrete-High-Strength-Concrete-Mix-TDS.pdf", "source_date": "TDS (c) 2023"}
+  ]
+}
